@@ -189,6 +189,7 @@ func main() {
 		"https://iptvcat.com/singapore",
 		"https://iptvcat.com/south_korea",
 		"https://iptvcat.com/austria",
+		"https://iptvcat.com/australia",
 		"https://iptvcat.com/belgium",
 		"https://iptvcat.com/france",
 		"https://iptvcat.com/germany",
@@ -198,7 +199,6 @@ func main() {
 		"https://iptvcat.com/united_kingdom",
 		"https://iptvcat.com/canada",
 		"https://iptvcat.com/united_states_of_america",
-		"https://iptvcat.com/australia",
 		"https://iptvcat.com/new_zealand",
 		"https://iptvcat.com/undefined",
 	}
